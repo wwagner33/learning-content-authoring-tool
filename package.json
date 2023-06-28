@@ -1,0 +1,26 @@
+{
+  "name": "learning-content-authoring-tool",
+  "version": "1.0.0",
+  "description": "a very simple learning content authoring tool to be used by teachers and instuctional designers.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwagner33/learning-content-authoring-tool.git"
+  },
+  "keywords": [
+    "learning",
+    "content",
+    "authoring",
+    "instuctional",
+    "design"
+  ],
+  "author": "Wellington Wagner F. Sarmento and Patrícia de Sousa Paula",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/wwagner33/learning-content-authoring-tool/issues"
+  },
+  "homepage": "https://github.com/wwagner33/learning-content-authoring-tool#readme"
+}
